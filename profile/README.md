@@ -1,3 +1,3 @@
-# Open Energy Ontologies Foundry
+# ENERO Foundry
 
-The OEO Foundry is a nexus for community development of interoperable ontologies for the energy domain.
+The ENERO Foundry is a nexus for community development of interoperable ontologies for the energy domain.
